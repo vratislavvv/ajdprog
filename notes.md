@@ -9,13 +9,12 @@ cd Dokumenty
 cd dev
 
 2.
-V projektovom folderi
-
-npm run dev
 
 git init- spusti git
 git branch -m 
 
-3.
+3. NPMs
 
-npm run build
+npm run dev - spusta local host
+
+npm run build - spusta build
